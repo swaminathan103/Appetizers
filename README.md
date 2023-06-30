@@ -5,7 +5,7 @@ Appetizers is an iOS app built using SwiftUI that allows users to browse and ord
 ## Screenshots
 
 <p float="left">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/53428109/250209350-53422f95-151d-4e5a-b610-e29bdbdc46ff.png" width="700" height="586" />
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/53428109/250209632-7f765cd9-a40f-4128-ae31-3125e41c1b9c.png" width="700" height="586" />
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/53428109/250209348-3e94ef64-5998-4cc5-98b7-237c60284c1b.png" width="700" height="586" />
 </p>
 
